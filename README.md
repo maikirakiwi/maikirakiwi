@@ -11,6 +11,8 @@ Professional Audio Engineer living in Los Angeles, California.
 
 1 year - Sennheiser | Specialized in DSP/RF Transmission
 
+1 year - XXX | UI/UX Design & HID Implementations
+
 6 years to date - Professional Audio Engineer + Operating my own audio company (Studio Zero Calorie)
 
 ### Languages
