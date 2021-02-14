@@ -47,7 +47,7 @@ Current - Stanford School of Engineering
 - AWS IoT/IaaS
 
 ### PC
-- CPU | i7-10900K + 240mm Liquid Cooling
+- CPU | i9-10900K + 240mm Liquid Cooling
 - GPU | RTX 3090 + 240mm Liquid Cooling
 - RAM | 128GB DDR4-3200 Corsair Vengeance
 - Monitor | Samsung Odyssey G9 & LG 29UM68-P
