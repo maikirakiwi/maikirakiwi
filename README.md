@@ -10,6 +10,7 @@ Professional Audio Engineer living in Los Angeles, California.
 ### Past Experience
 
 1 year - Sennheiser | Specialized in DSP/RF Transmission
+
 6 years to date - Professional Audio Engineer + Operating my own audio company (Studio Zero Calorie)
 
 ### Languages
@@ -21,11 +22,17 @@ Professional Audio Engineer living in Los Angeles, California.
 
 ### Awards & Certifications
 2015 - Student of the Year | International Baccalaureate 
+
 2016 - Best Startup of the Industry | IDG Capital
+
 2016 - Recognition of Leadership | International Baccalaureate
+
 2017 - Excellence in Academics | International Baccalaureate
+
 2017 - JLPT N3 | Japan Foundation and Japan Educational Exchanges and Services
+
 2019 - Curie-ous Innovator Award | **XXX**
+
 2020 - Excellence in Academics | **XXX**
 
 ### What I know
