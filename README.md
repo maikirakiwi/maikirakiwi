@@ -1,16 +1,47 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**maikirakiwi/maikirakiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## I'm Maikira, you can call me Mai or Kiwi or Maikiwi. 
+Professional Audio Engineer living in Los Angeles, California. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+
+### Past Experience
+
+1 year - Sennheiser | Specialized in DSP/RF Transmission
+6 years to date - Professional Audio Engineer + Operating my own audio company (Studio Zero Calorie)
+
+### Languages
+- English **(Native)**
+- Chinese **(Native)**
+- Japanese **(Fluent)**
+- Spanish **(Intermediate)**
+- French **(Intermediate)**
+
+### Awards & Certifications
+2015 - Student of the Year | International Baccalaureate 
+2016 - Best Startup of the Industry | IDG Capital
+2016 - Recognition of Leadership | International Baccalaureate
+2017 - Excellence in Academics | International Baccalaureate
+2017 - JLPT N3 | Japan Foundation and Japan Educational Exchanges and Services
+2019 - Curie-ous Innovator Award | **XXX**
+2020 - Excellence in Academics | **XXX**
+
+### What I know
+- Corrective DSP & Audio Circuit Design (Eliminating Crosstalk etc)
+- Mastering & Audio Signal Manipulation
+- Psychoacoustics 
+- Python & Tensorflow (AI; Statistics)
+- AWS IoT/IaaS
+
+### PC
+- Monitor | Samsung Odyssey G9 & LG 29UM68-P
+- Keyboard | Logitech G815
+- Mouse | Logitech G903
+- Headphones | HD 800S (I use this the most out of like a million)
+- Desktop Amp | Sony TA-ZH1ES 
+- Desktop DAC | RME ADI-2-DAC FS
+- Audio Interface | RME Babyface Pro FS
+- Microphone | Neumann U87Ai & Shure SM7b for discord
+- Daily Driver Laptop | Decked Out Macbook Pro 16' (5600M GPU) 
