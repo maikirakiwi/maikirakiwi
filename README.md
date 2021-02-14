@@ -37,6 +37,8 @@ Professional Audio Engineer living in Los Angeles, California.
 
 2020 - Excellence in Academics | **XXX**
 
+Current - Stanford School of Engineering
+
 ### What I know
 - Corrective DSP & Audio Circuit Design (Eliminating Crosstalk etc)
 - Mastering & Audio Signal Manipulation
@@ -45,6 +47,9 @@ Professional Audio Engineer living in Los Angeles, California.
 - AWS IoT/IaaS
 
 ### PC
+- CPU | i7-10900K + 240mm Liquid Cooling
+- GPU | RTX 3090 + 240mm Liquid Cooling
+- RAM | 128GB DDR4-3200 Corsair Vengeance
 - Monitor | Samsung Odyssey G9 & LG 29UM68-P
 - Keyboard | Logitech G815
 - Mouse | Logitech G903
