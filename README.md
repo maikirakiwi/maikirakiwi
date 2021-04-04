@@ -37,8 +37,6 @@ Professional Audio Engineer living in Los Angeles, California.
 
 2020 - Excellence in Academics | **XXX**
 
-Current - Stanford School of Engineering
-
 ### What I know
 - Corrective DSP & Audio Circuit Design (Eliminating Crosstalk etc)
 - Mastering & Audio Signal Manipulation
@@ -46,7 +44,7 @@ Current - Stanford School of Engineering
 - Python & Tensorflow (AI; Statistics)
 - AWS IoT/IaaS
 
-### PC
+### Gear Setup (Serves as good reference for anyone wanting to build up their own studio)
 - CPU | i9-10900K + 240mm Liquid Cooling
 - GPU | RTX 3090 + 240mm Liquid Cooling
 - RAM | 128GB DDR4-3200 Corsair Vengeance
@@ -56,6 +54,7 @@ Current - Stanford School of Engineering
 - Headphones | HD 800S (I use this the most out of like a million)
 - Desktop Amp | Sony TA-ZH1ES 
 - Desktop DAC | RME ADI-2-DAC FS
+- Monitors | Genelec 8351B x2; W371A x1
 - Audio Interface | RME Babyface Pro FS
-- Microphone | Neumann U87Ai & Shure SM7b for discord
+- Microphone | Neumann U87Ai & Shure SM7b for discord; An used KU100 (but normally checked out to content creators)
 - Daily Driver Laptop | Decked Out Macbook Pro 16' (5600M GPU) 
