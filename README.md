@@ -13,35 +13,10 @@ Professional Audio Engineer living in Los Angeles, California.
 - English **(Native)**
 - Chinese **(Native)**
 - Japanese **(Fluent)**
-- Spanish **(Intermediate)**
-- French **(Intermediate)**
-
-### Awards & Certifications
-<details>
-<summary>Expand</summary>
-
-2015 - Student of the Year | International Baccalaureate 
-
-2016 - Best Startup of the Industry | IDG Capital
-
-2016 - Recognition of Leadership | International Baccalaureate
-
-2017 - Excellence in Academics | International Baccalaureate
-
-2017 - JLPT N3 | Japan Foundation and Japan Educational Exchanges and Services
-
-2019 - Curie-ous Innovator Award | **XXX**
-
-2020 - Excellence in Academics | **XXX**
-</details>
 
 ### Experiences
 <details>
 <summary>Expand</summary>
-  
-1 year - Sennheiser | Specialized in DSP/RF Transmission
-
-1 year - XXX | UI/UX Design & HID Implementations
 
 6 years to date - Professional Audio Engineer + Operating an audio company
 
