@@ -4,7 +4,7 @@
 
 ## I'm Maikira, you can call me Mai or Kiwi or Maikiwi. 
 Professional Audio Engineer living in Los Angeles, California. 
-* NOT a Professional Coder
+- Owner of [Maikiwi Global Network](https://status.mai.kiwi)
 --- 
 
 Note that most of my codes are in private repositories so not much to see here!
