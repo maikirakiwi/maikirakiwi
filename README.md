@@ -4,10 +4,10 @@
 
 ## I'm Maikira, you can call me Mai or Kiwi or Maikiwi. 
 Professional Audio Engineer living in Los Angeles, California. 
-- Owner of [Maikiwi Global Network](https://status.mai.kiwi)
+- Owner of [Maikiwi Global Network](https://mai.kiwi)
 
 ## 如果你读到这里就读不下去了（英语专八阅读理解）明白我打了个招呼就行。
-- 某邀请制云提供商的老板 [Maikiwi Global Network](https://status.mai.kiwi)
+- 某邀请制云提供商的老板 [Maikiwi Global Network](https://mai.kiwi)
 - 拖工单的客服和运维 (dbq)
 - 中英都可 日算还行
 - 关于母带工程师误入歧途不小心开始了码字的旅程是不是有哪里不对这档事
