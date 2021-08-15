@@ -19,7 +19,7 @@ Note that most of my codes are in private repositories so not much to see here!
 Though, I will redirect you to my cutie frens:
 [@xxCherry](https://github.com/xxCherry)
 [@xxkat](https://github.com/xxkat)
-
+[@tsunyoku](https://github.com/tsunyoku)
 
 ### Languages
 - English **(Native)**
