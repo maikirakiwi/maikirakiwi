@@ -2,8 +2,8 @@
 
 ---
 
-## I'm Maikira, you can call me Mai or Kiwi or Maikiwi. 
-Professional Audio Engineer living in Los Angeles, California. 
+## I'm Maikira, you can call me Maikiwi. 
+Professional Audio Engineer (and Cloud Wizard) living in Los Angeles, California. 
 - Owner of [Maikiwi Global Network](https://mai.kiwi)
 
 ## 如果你读到这里就读不下去了（英语专八阅读理解）明白我打了个招呼就行。
@@ -24,7 +24,7 @@ Though, I will redirect you to my cutie frens:
 ### Languages
 - English **(Native)**
 - Chinese **(Native)**
-- Japanese **(Fluent)**
+- Japanese **(Fluent-ish)**
 
 ### Experiences
 <details>
@@ -36,7 +36,7 @@ Though, I will redirect you to my cutie frens:
 - Mastering & Audio Signal Manipulation
 - Psychoacoustics 
 - Python & Tensorflow (AI; Statistics)
-- AWS IoT/IaaS
+- IoT/IaaS (MGN Est. 2018)
 </details>
 
 ### Gear Setup (Serves as good reference for anyone wanting to build up their own studio)
