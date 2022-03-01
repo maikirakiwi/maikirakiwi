@@ -29,12 +29,9 @@ Though, I will redirect you to my cutie frens:
 ### Experiences
 <details>
 <summary>Expand</summary>
-
-6 years to date - Professional Audio Engineer + Operating an audio company
-
-- Corrective DSP & Audio Circuit Design (Eliminating Crosstalk etc)
-- Mastering & Audio Signal Manipulation
+  
+- Mastering Engineer & DSP Design Consultant (~6y)
 - Psychoacoustics 
 - Python & Tensorflow (AI; Statistics)
-- IoT/IaaS (MGN Est. 2018)
+- Hybrid Cloud IaaS (Est. 2018)
 </details>
