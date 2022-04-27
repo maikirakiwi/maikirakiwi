@@ -4,11 +4,11 @@
 
 ## I'm Maikira, you can call me Maikiwi. 
 Professional-ish in lot of thingies living in Los Angeles, California. 
-- Co-Founder of [Maikiwi Global Network](https://mai.kiwi) ([Japan BGP](https://mai.ne.jp))   
+- Co-Founder of [Maikiwi Network LLC](https://mai.kiwi) ([Japan BGP](https://mai.ne.jp))   
 - Audio Engineer & DSP Consultant at [Cider Collective](https://github.com/ciderapp)
 
 ## 如果你读到这里就读不下去了（英语专八阅读理解）明白我打了个招呼就行。
-- 某邀请制云提供商的老板 [Maikiwi Global Network](https://mai.kiwi) ([日本BGP](https://mai.ne.jp))   
+- 某邀请制云提供商的老板 [Maikiwi Network LLC](https://mai.kiwi) ([日本BGP](https://mai.ne.jp))   
 - 拖工单的客服和运维 (dbq)
 - 中英都可 日算还行
 - 关于母带工程师误入歧途不小心开始了码字的旅程是不是有哪里不对这档事
