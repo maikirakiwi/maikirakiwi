@@ -23,9 +23,9 @@ Though, I will redirect you to my cutie frens:
 [@booploops](https://github.com/booploops)
 
 ### Languages
-- English **(Native)**
-- Chinese **(Native)**
-- Japanese **(Fluent-ish)**
+- English 
+- Chinese 
+- Japanese **(not Native)**
 
 ### Experiences
 <details>
