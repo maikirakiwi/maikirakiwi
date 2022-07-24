@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 | English; 中文; 日本語
 
----
+--- 
 
 ## I'm Maikira, you can call me Maikiwi. 
 Professional-ish in lot of thingies living in Los Angeles, California. 
@@ -32,7 +32,7 @@ Though, I will redirect you to my cutie frens:
 <summary>Expand</summary>
 
 - Mastering Engineer & DSP Design Consultant (~6y)
-- Psychoacoustics 
-- Python & Tensorflow (AI; Statistics)
+- Software-Driven Psychoacoustic Enhancement (from above) 
+- Python & Tensorflow
 - Hybrid/Multi Cloud IaaS (2018 - Present)
 </details>
