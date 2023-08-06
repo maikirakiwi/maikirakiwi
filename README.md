@@ -4,7 +4,7 @@
 
 ## I'm Maikira, you can call me Maikiwi. 
 Professional-ish in lot of areas living in Los Angeles, California. 
-- Co-Founder (Now Director of APAC Infrastructure) of [Maikiwi Network LLC](https://mai.kiwi) ([Japan BGP](https://mai.ne.jp))   
+- Co-Founder of [Maikiwi Network LLC](https://mai.kiwi) ([Japan BGP](https://mai.ne.jp))   
 - Volunteering as Audio Engineer & DSP Consultant at [Cider Collective](https://github.com/ciderapp)
 
 ## 如果你读到这里就读不下去了（英语专八阅读理解）明白我打了个招呼就行。
