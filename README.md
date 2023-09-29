@@ -8,11 +8,11 @@ Professional-ish in lot of areas living in Los Angeles, California.
 - Volunteering as Audio Engineer & DSP Consultant at [Cider Collective](https://github.com/ciderapp)
 
 ## 如果你读到这里就读不下去了（英语专八阅读理解）明白我打了个招呼就行。
-- 某IaaS/PaaS的老板 [Maikiwi Network LLC](https://mai.kiwi) ([日本子公司](https://mai.ne.jp))   
+- 某IaaS/PaaS互联网公司的卑微打工人 [Maikiwi Network LLC](https://mai.kiwi) ([日本子公司](https://mai.ne.jp))   
 - 拖工单的客服和运维 (dbq)
 - 中英都可 日算还行
 - 关于母带工程师误入歧途不小心开始了码字的旅程是不是有哪里不对这档事
-- 欢迎来Discord向我私信冒泡吖~ Maikiwi#0 (Maikiwi#0001)
+- 欢迎来Discord向我私信冒泡吖~ maikiwi
 --- 
 
 Note that most of my codes are in private repositories so not much to see here!
