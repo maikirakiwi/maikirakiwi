@@ -3,6 +3,8 @@
 --- 
 
 ## I'm Maikira, you can call me Maikiwi. 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C0Q0RUP)
+
 Professional-ish in lot of areas living in Los Angeles, California. 
 - Co-Founder of [Maikiwi Network LLC](https://mai.kiwi) ([Japan Subsidiary](https://mai.ne.jp))   
 - Volunteering as Audio Engineer & DSP Consultant at [Cider Collective](https://github.com/ciderapp)
