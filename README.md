@@ -3,7 +3,7 @@
 --- 
 
 ## I'm Maikiwi. You can call me Mai. 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C0Q0RUP)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C0Q0RUP) | [Misskey](https://misskey.io/@maikiwi) | Discord ~ maikiwi
 
 > An entrepreneur with diverse interests.
 - Co-Founder of [Maikiwi Network LLC](https://mai.kiwi) ([Japan Subsidiary](https://mai.ne.jp))   
@@ -14,7 +14,6 @@
 - 某IaaS/PaaS互联网公司的卑微打工人 [Maikiwi Network LLC](https://mai.kiwi) ([日本子公司](https://mai.ne.jp))   
 - 中英都可 日算还行
 - ~~关于母带工程师误入歧途不小心开始了码字的旅程是不是有哪里不对这档事~~
-- 欢迎来Discord向我私信冒泡吖~ maikiwi
 --- 
 
 Note that most of my codes are in private repositories, so not much to see here!
