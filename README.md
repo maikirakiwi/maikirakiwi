@@ -3,7 +3,7 @@
 --- 
 
 ## I'm Mai.
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C0Q0RUP) | [Misskey](https://misskey.io/@maikiwi) | Discord ~ maikiwi
+Discord ~ maikiwi
 
 - Volunteering as Audio Engineer & DSP Consultant at [Cider Collective](https://github.com/ciderapp)
 - I *sometimes* write code for hobby projects such as [GotoBangumi](https://github.com/maikirakiwi/Goto_Bangumi), but don't expect T10 SWE quality code. **I'm an Econ major smh.** 
@@ -22,6 +22,13 @@ Though, I will redirect you to my cutie frens:
 [@booploops](https://github.com/booploops)
 
 ### Languages
+- Python
+- Golang
 - English 
 - Chinese 
 - Japanese **(Intermediate)**
+
+--- 
+[MyDramaList](https://mydramalist.com/dramalist/notmaimai)
+
+<img src="https://raw.githubusercontent.com/maikirakiwi/mydramalist-widget/main/output/watching.png?raw=1" alt="Alt Text" style="width:50%; height:auto;">
