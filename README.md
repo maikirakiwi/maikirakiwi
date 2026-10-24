@@ -29,6 +29,6 @@ Though, I will redirect you to my cutie frens:
 - Japanese **(Intermediate)**
 
 --- 
-<a href="https://mydramalist.com/dramalist/notmaimai">
+<a href="https://dramalist.mai.ne.jp">
 <img src="https://raw.githubusercontent.com/maikirakiwi/mydramalist-widget/main/output/watching.png?raw=1" alt="Alt Text" style="width:50%; height:auto;">
 </a>
